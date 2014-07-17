@@ -1,0 +1,7 @@
+{
+    "require": {
+        "nocarrier/hal": "0.9.*",
+        "elasticsearch/elasticsearch": "~1.0",
+        "silex/silex": "~1.2"
+    }
+}
